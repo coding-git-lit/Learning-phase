@@ -1,1 +1,6 @@
-Learned from Telusko learnings
+#include<iostream>
+using namespace std;
+int main()
+{
+cout<<"THANK YOU :)";
+}
